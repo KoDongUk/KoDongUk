@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm KoDong!👋
 
 🔭 Myongji Univ. Computer Engineering. <br />
 🌱 I’m currently learning ReactJS
