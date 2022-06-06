@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Myongji Univ. Computer Engineering.
+🔭 Myongji Univ. Computer Engineering. <br />
 🌱 I’m currently learning ReactJS
 <!--
 **KoDongUk/KoDongUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
