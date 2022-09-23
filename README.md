@@ -2,7 +2,7 @@
 
 🖥  I'm working in WMP. <br />
 🌱  Front-End Developer. <br />
-🔭  Myongji Univ. Computer Engineering. <br />
+🔭  Myongji Univ. Computer Engineering. <br /><br />
 
 ### Technology Stack <br />
 <div>
