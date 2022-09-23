@@ -1,8 +1,8 @@
 ### Hi, I'm KoDong!👋
 
-🖥 I'm working in WMP. <br />
-🌱 Front-End Developer. <br />
-🔭 Myongji Univ. Computer Engineering. <br />
+🖥  I'm working in WMP. <br />
+🌱  Front-End Developer. <br />
+🔭  Myongji Univ. Computer Engineering. <br />
 
 ### Technology Stack <br />
 <div>
