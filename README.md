@@ -15,7 +15,9 @@
 
 </div>
 
+<!--
 ### Now I'm Learning <br />
 <div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white" />
+-->
