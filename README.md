@@ -1,4 +1,4 @@
-### Hi, I'm KoDong! || Coby! 👋
+### Hi, I'm KoDong! 👋
 
 🖥  I worked in WemakePrice. <br />
 🌱  Front-End Developer. <br />
