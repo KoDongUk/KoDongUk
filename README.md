@@ -1,8 +1,8 @@
-### Hi, I'm KoDong! 👋
+### 안녕하세요. 3년차 프론트엔드 개발자 고동욱입니다. 👋
 
-🖥  I worked in WemakePrice. <br />
-🌱  Front-End Developer. <br />
-🔭  Myongji Univ. Computer Engineering. <br /><br />
+🖥  2년 간, 위메프 기업에서 여행/컬처 서비스/백오피스 프론트엔드 개발 경력이 있습니다. <br />
+🌱  협업을 중요시하는 Front-End 개발자입니다. <br />
+🔭  명지대학교에서 컴퓨터공학을 전공했습니다. <br /><br />
 
 ### Technology Stack <br />
 <div>
